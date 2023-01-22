@@ -13,3 +13,6 @@ For this challenge, you'll be assuming the role of Senior Data Analyst for Maven
 
 Task is to recommend a data-driven strategy for increasing Maven Airlines' satisfaction rate, and present it in the form of a single page report or dashboard.
 
+
+
+[Maven Airlines Challenge.pdf](https://github.com/SaudAzmi/Maven-Airline-Challenge/files/10475729/Maven.Airlines.Challenge.pdf)
